@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">Computer Science Student & Developer</h3>
+<h1 align="center">Hi 👋, I'm Shaik Tareq Ahamed</h1>
+<h3 align="center">Computer Science Student & Data Analyst</h3>
 
 ---
 
